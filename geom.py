@@ -18,7 +18,7 @@ class SynapseNMDA:
 		self.syn.tau2NMDA	= tau2NMDA 
 		self.syn.r			= r
 		self.syn.e			= e 
-		
+
 ###############################################################################
 #
 # General Cell
